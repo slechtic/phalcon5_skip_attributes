@@ -1,0 +1,1 @@
+Run docker-compose up -d and visit http://localhost:8050
